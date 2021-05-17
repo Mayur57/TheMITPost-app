@@ -1,6 +1,9 @@
 ![header.png](https://i.ibb.co/DfgTbQT/Story-01.png)
-
-# The MIT Post
+<div class="myWrapper" markdown="1">
+<p align="center">
+# The MIT Post App
+</p>
+</div>
 
 ### Table of Contents  
 - [Introduction](#introduction)  
